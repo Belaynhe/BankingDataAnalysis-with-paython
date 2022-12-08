@@ -1,1 +1,1 @@
-# BankingDataAnalysis-with-paython
+# BankingDataAnalysis-with-python
