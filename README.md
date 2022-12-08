@@ -1,4 +1,5 @@
 # banking-data-analysis
+![Picture1](https://user-images.githubusercontent.com/120053328/206515674-84c05940-a248-4893-9363-2d6dfab34a4f.png)
 
 ## This project demonstrates data exploration and cleaning using imputation to fill in missing values
 
